@@ -7,7 +7,8 @@ Freelancer
 - 👯 I’m looking to collaborate on e-commerce website and web development projects
 - 🤔 I’m seeking help with finding an internship or entry-level job
 - 💬 Ask me about Tech
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prakashk22)
+- 📫 How to reach me: 
+  - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prakashk22)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know how to create meth
 
@@ -18,3 +19,5 @@ Freelancer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/canva.png"/>
 
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakash-cse&theme=dark&show_icons=true&hide=issues,contribs)
+
+[![Prakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakash-cse&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
